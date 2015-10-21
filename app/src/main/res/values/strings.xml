@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SimpleDrawerNavigationMaterialDesign</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--drawer navigation-->
+    <string name="inbox_string">Inbox</string>
+    <string name="starred_string">Star</string>
+    <string name="sent_mail_string">sent</string>
+    <string name="draft_string">Draft</string>
+    <string name="all_mail_string">All</string>
+    <string name="trash_string">Trash</string>
+    <string name="spam_string">Spam</string>
+
+    <string name="openDrawer">opened</string>
+    <string name="closeDrawer">closed</string>
+</resources>
